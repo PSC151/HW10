@@ -1,0 +1,9 @@
+{
+    "name": "employeedata",
+    "version": "1.0",
+    "description": "Data on Employees",
+    "main": ",
+    "scripts": {
+      "test": 'jest',
+    }
+    }
